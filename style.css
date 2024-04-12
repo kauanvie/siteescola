@@ -3,8 +3,13 @@
 .cabeçalho-lista-item{display:inline-block;margin:0 16px;font: size 20px;}
 .cabeçalho-lista-item{display: inline-block;}
 .escola-imagem{width: 25%;}
-.escola{
+.roupa
     background-image: linear-gradient(#223232, #2d9)
     color:white;
     display: flex;
+    justify-content: center;
+    aling-items: center;
+    padding: 24px 0;}
+.escola-div-conteudo{width:45%;}
+.escola-titulo{padding: 30%px 0;} 
     
